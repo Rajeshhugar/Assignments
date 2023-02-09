@@ -1,4 +1,9 @@
-# [iNeuron.ai](https://ineuron.ai/) - [Full Stack Data Science Bootcamp](https://learn.ineuron.ai/course/Full-Stack-Data-Science-Bootcamp/)
+# [iNeuron.ai](https://ineuron.ai/)
+![image](https://user-images.githubusercontent.com/109470299/217797230-a712f225-b118-48b0-a422-2e064e5c0f6f.png)
+
+
+
+- [Full Stack Data Science Bootcamp](https://learn.ineuron.ai/course/Full-Stack-Data-Science-Bootcamp/)
 This is an assignment submission repository for the online course iNeuron.ai - Full Stack Data Science Bootcamp.
 
 |Table of Content|Total Assignments|Submitted|
