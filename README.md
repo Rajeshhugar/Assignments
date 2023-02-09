@@ -16,3 +16,4 @@ This is an assignment submission repository for the online course iNeuron.ai - F
 |[ML Assignmnet](ML%20Assignmnet)|24|0|
 |[CV Assignment](CV%20Assignment)|12|0|
 |[NLP Assignmnet](NLP%20Assignmnet)|7|0|
+**Total Assignments : 175** 
