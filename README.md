@@ -13,7 +13,7 @@ This is an assignment submission repository for the online course iNeuron.ai - F
 |[Python Advanced](Python%20Advanced)|25|25|
 |[DL Theory](DL%20Theory)|16|2|
 |[DL Practical Assignment](DL%20Practical%20Assignment)|25|1|
-|[ML Assignmnet](ML%20Assignmnet)|19|0|
+|[ML Assignmnet](ML%20Assignmnet)|24|19|
 |[CV Assignment](CV%20Assignment)|12|0|
 |[NLP Assignmnet](NLP%20Assignmnet)|7|0|
 **Total Assignments : 175** 
